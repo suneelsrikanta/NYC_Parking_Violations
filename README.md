@@ -6,9 +6,4 @@ The NYC Parking Violations 2015 dataset contains detailed information on parking
 
 Objectives
 
-Predict Payment Behavior for Parking Violations: Use machine learning models in PySpark (Gradient Boosted Trees, Logistic Regression) to predict whether a parking violation will be paid or remain unpaid.
-Hyperparameter Tuning: Leverage PySpark’s MLib to fine-tune model parameters using TrainValidationSplit and ParamGridBuilder.
-Model Evaluation: Apply TrainValidationSplit and CrossValidator to rigorously test models and ensure robust generalization to unseen data.
-
-
-
+Predict Payment Behavior for Parking Violations: Use machine learning models in PySpark (Gradient Boosted Trees, Logistic Regression) to predict whether a parking violation will be paid or remain unpaid. Hyperparameter Tuning: Leverage PySpark’s MLib to fine-tune model parameters using TrainValidationSplit and ParamGridBuilder. Model Evaluation: Apply TrainValidationSplit and CrossValidator to rigorously test models and ensure robust generalization to unseen data.
